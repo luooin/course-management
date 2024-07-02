@@ -11,6 +11,7 @@
 
 #### 软件架构🌞
 根据分析可将本系统分为4个大模块以及12个小模块
+
 ![image](https://github.com/luooin/course-management/assets/85004172/60fb049e-1944-41bc-a07e-64caf2d8cfef)
 
 
